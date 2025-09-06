@@ -21,5 +21,5 @@ With each level presenting a new challenge, it's a stimulating and strategic gam
 
   
 ## Screenshots
-![Home](screenshots/AllLevels.jpg)
-![Gameplay](screenshots/Level1.jpg)
+<img src="screenshots/AllLevels.jpg" height="400">
+<img src="screenshots/Level1.jpg" height="400">
